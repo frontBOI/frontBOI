@@ -1,0 +1,5 @@
+- 👋 Hi, my name is @frontBOI. I am a 25yo french professional fullstack developer and have been coding for more than 15 years now
+- 👀 I’m particularly interested in frontend development and design, mainly using ReactJS and Figma
+- 🌱 I’m currently learning Tailwind CSS so I can drive my business further while maintaining a coherent code base.
+- 💞️ I’m actually not looking to collaborate on any project, because I love working alone for the moment. Still, feel free to send me a message and I'll consider it !
+- 📫 To reach me: contact.tomblanchet@gmail.com
