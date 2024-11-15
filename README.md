@@ -1,5 +1,5 @@
-<h1 align="center">🇫🇷 Bonjour ! My name is Tom Blanchet.</h1>
-<h3 align="center">A french IT engineer specialized in fullstack development and DevOps</h3>
+<h1 align="center">🇫🇷 Bonjour, I am Tom Blanchet.</h1>
+<h3 align="center">French IT engineer specialized in fullstack development, DevOps oriented</h3>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=frontBOI&label=Profile%20views&color=0e75b6&style=flat" alt="tomblanchet" />
@@ -16,13 +16,13 @@
     </a>
 </div>
 
-<p>Fond of frontend and backend, designing and devops. This is now my fulltime job, very proud of it !</p>
-<p>I am independant, and also an electrcian because why not ⚡️</p>
+<p>Fond of frontend and backend, designing and devops. I love to experiment and create the most robust code one can.</p>
+<p>I am a freelance developer, you can contact me to talk about your project.</p>
 
 <h3 align="left">To reach me</h3>
 <p>📨 contact@tomblanchet.fr</p>
 </p>
 
-<h3 align="left">Some nice stats</h3>
-<i>Be aware that most of my work happen on Gitlab.</i>
+<h3 align="left">Some stats about me</h3>
+<i>Be aware that my biggest projects are stored on Gitlab.</i>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frontBOI&show_icons=true&locale=en" alt="tomblanchet" /></p>
